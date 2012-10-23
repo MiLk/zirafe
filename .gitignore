@@ -1,2 +1,5 @@
 pub/inc/config.php
 .*.sw[a-z]
+files
+links
+trash
